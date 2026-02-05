@@ -5,4 +5,4 @@
 Any use of this my code by GitHub Copilot, past or present, is done
 without my permission. I do not consent to GitHub's use of my code in Copilot.
 
-<img src="https://sfconservancy.org/static/img/GiveUpGitHub.png" alt="Logo of the GiveUpGitHub campaign" style="max-height: 4em;" />
+<https://giveupgithub.org>
