@@ -1,4 +1,4 @@
-# I am being here just to submit patches
+# I am here just to submit patches
 
 - Go look at Codeberg: <https://codeberg.org/1millibyte> to see my stuff!
 
